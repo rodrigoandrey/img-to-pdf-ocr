@@ -4,9 +4,9 @@ Put all images you want to convert in a Simple Folder.
 Then put the folder's path in the right place in main.py
 
 
-- Python-3.9.1
+- Python-3.9.1 (64bits).
 - Requirements in requirements.txt
 
 #Required: 
-- GPL Ghostscript,
-- Google Tesseract-OCR.
+- GPL Ghostscript - v9.53.3 - https://www.ghostscript.com/download/gsdnld.html
+- Google Tesseract-OCR - v5.0.0-alpha.20201127 - https://github.com/UB-Mannheim/tesseract/wiki
