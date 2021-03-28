@@ -8,8 +8,8 @@ Then put the folder's path in the right place in main.py
 - Requirements in requirements.txt
 
 # Required: 
-- GPL Ghostscript - v9.53.3 - https://www.ghostscript.com/download/gsdnld.html
-- Google Tesseract-OCR - v5.0.0-alpha.20201127 - https://github.com/UB-Mannheim/tesseract/wiki
+- GPL Ghostscript (64bits) - v9.53.3 - https://www.ghostscript.com/download/gsdnld.html 
+- Google Tesseract-OCR (64bits) - v5.0.0-alpha.20201127 - https://github.com/UB-Mannheim/tesseract/wiki
 
 # -
 - Clone project, create a virtual environment(venv)(or pipenv).
