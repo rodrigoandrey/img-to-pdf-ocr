@@ -1,0 +1,17 @@
+cffi==1.14.5
+chardet==4.0.0
+coloredlogs==15.0
+cryptography==3.4.7
+humanfriendly==9.1
+img2pdf==0.4.0
+lxml==4.6.3
+ocrmypdf==11.7.3
+pdfminer.six==20201018
+pikepdf==2.9.2
+Pillow==8.1.2
+pluggy==0.13.1
+pycparser==2.20
+pyreadline==2.1
+reportlab==3.5.66
+sortedcontainers==2.3.0
+tqdm==4.59.0
