@@ -1,6 +1,6 @@
 # Img-to-pdf-ocr:
 Its a simple script to convert images to PDF(OCR).
-Put all images you want to convert in a Simple Folder.
+Put all images you wish to convert in a simple Folder.
 Then put the folder's path in the right place in main.py
 
 
